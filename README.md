@@ -1,2 +1,1 @@
-# slurmpy
-slurmpy forker from brentp / slurmpy
+Create initial condition files for SWIFT planet simulation and submit the Slurm jobs automatically.
